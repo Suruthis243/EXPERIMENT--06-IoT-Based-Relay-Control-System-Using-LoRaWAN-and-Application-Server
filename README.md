@@ -28,7 +28,37 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
 
-<img width="1245" height="777" alt="Screenshot 2026-03-30 180927" src="https://github.com/user-attachments/assets/6b13da52-8d01-4e8d-9638-3d5c0a3344fd" />
+### AT+FDR
+<img width="1228" height="631" alt="image" src="https://github.com/user-attachments/assets/bcb47cc8-c5c9-4733-a1e8-1d1cff7e8075" />
+
+### AT+NJM
+<img width="1328" height="670" alt="image" src="https://github.com/user-attachments/assets/e53bf9ce-28fb-4be8-ba4f-bd0185d9a0b2" />
+
+
+### AT+ADR
+
+<img width="747" height="381" alt="Screenshot 2026-03-30 184345" src="https://github.com/user-attachments/assets/fef0fa67-214d-4b63-8947-57f0ef586750" />
+
+### AT+TDC
+<img width="677" height="335" alt="Screenshot 2026-03-30 185140" src="https://github.com/user-attachments/assets/baf615b2-503d-4c62-9e5f-04b540c0e02f" />
+
+### AT+CLASS
+
+<img width="827" height="420" alt="Screenshot 2026-03-30 185533" src="https://github.com/user-attachments/assets/15d7cedd-f7b6-40e2-afe9-79ed8111bb83" />
+
+
+### AT+DEUI
+
+<img width="890" height="442" alt="Screenshot 2026-03-30 190531" src="https://github.com/user-attachments/assets/4801715c-9531-46a2-8f15-01ddac2dbf92" />
+
+### AT+APPEUI
+
+<img width="838" height="370" alt="Screenshot 2026-03-30 191235" src="https://github.com/user-attachments/assets/45a09d87-cf6d-4532-9fd2-fcf857eb92a6" />
+
+
+### ATZ
+
+<img width="880" height="445" alt="Screenshot 2026-03-30 191736" src="https://github.com/user-attachments/assets/909063f0-8955-4ed2-9d4d-9fc6002ac17d" />
 
 
 
